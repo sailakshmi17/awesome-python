@@ -8,6 +8,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Admin Panels](#admin-panels)
     - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
     - [Anti-spam](#anti-spam)
+    - [App-Development](#app-development)
     - [Asset Management](#asset-management)
     - [Audio](#audio)
     - [Authentication](#authentication)
@@ -129,6 +130,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [django-simple-captcha](https://github.com/mbi/django-simple-captcha) - A simple and highly customizable Django app to add captcha images to any Django form.
 * [django-simple-spam-blocker](https://github.com/moqada/django-simple-spam-blocker) - Simple spam blocker for Django.
+
+## App-Development
+
+*Tools and libraries for developing applications.*
+
+* [kivy](https://github.com/kivy/kivy)-A cross platform user interface toolkit
+* [PyQt](https://github.com/pyqt)-A crossplatform GUI toolkit to build desktop applications
 
 ## Asset Management
 
